@@ -1,0 +1,2 @@
+# Recommended_pyspark
+作品のレビューを用いたおすすめ作品の抽出
