@@ -9,6 +9,7 @@ Save 30 contents recommended for each user to Postgresql[table:review_rating(id,
 
 ## Usage
 OS : macOS Mojave  
+Python : 3.7.4  
 Spark : 2.4  
 Postgresql : 11.5  
 * setting DATABASE_URL  
